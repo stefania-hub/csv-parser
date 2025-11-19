@@ -54,7 +54,6 @@ console.log(studentArray);
 
 
 
-------
 
 // const jsonArray = JSON.stringify(studentArray)
 
